@@ -5,6 +5,7 @@ import pandas as pd
 import pdfplumber
 from PIL import Image
 
+
 st.title("Resume Analyzer")
 uploaded_file = None
 
